@@ -1,0 +1,12 @@
+Q1.
+Create an enum by the name Materials that contains three constants namely Iron, Steel and Wooden.
+Create another enum called FurnitureType that can be Chair, Table or Bed.
+Create a class called Furniture that stores its modelnumber, model name, model description, material
+and type.
+
+Q2.
+Create an enum call House that contains three constants namely Palash, Gulmohar, Kachnar and Amaltas.
+These houses have thir own colours Palash-Orange, Gulmohar-Red, Kachnar-Purple and Amaltas-Yellow
+Create another enum called Gender that has two constants Male and Female. Create a class called
+Student that stores his enrollmentNo, name, gender, class, section and house. Write constructors, 
+behaviour, operations to accept and display and also override toString, equals and hashCode. 

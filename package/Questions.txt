@@ -1,0 +1,11 @@
+Q1.
+Create a class Abc within a package called mypack, create another class called Xyz within the
+same package.Create main function within class Xyz, in wichan object of Abc class is to be created.
+Compile and interpret it.
+
+Q2.
+Create the following package heirarchy and perform the following operations
+a.Write main function within MainProg that creates object of Abc, Xyz, Efg and Lmn.
+compile and interpret it.
+b.Write main function within Xyz that created objects of Lmn and Efg.
+compile and interpret it.
